@@ -8,3 +8,4 @@ src/*.dll
 src/RcppExports.o
 src/RcppExports.cpp
 R/RcppExports.R
+*.Rproj
