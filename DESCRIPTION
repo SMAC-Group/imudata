@@ -1,0 +1,12 @@
+Package: gmwmdata
+Type: Package
+Title: GMWM Data Package
+Version: 0.1
+Date: 2015-09-1
+Author: James Balamuta, Stephane Guerrier, Roberto Molinari, Wenchao Yang
+Maintainer: Stephane Guerrier <stephane@illinois.edu>
+Description: This package is meant to serve as a data specific example package that can be used with the GMWM package to model latent processes within a time series.
+Depends: R (>= 2.10)
+License: file LICENSE
+License_restricts_use: yes
+LazyData: TRUE
