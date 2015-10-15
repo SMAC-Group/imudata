@@ -8,7 +8,7 @@ Description: This package is meant to serve as a data collection for IMU data.
     model the latent processes within a time series.
 Authors@R: c(
     person("James", "Balamuta", , "james.balamuta@gmail.com", c("aut", "cre", "cph")),
-    person("Stéphane", "Guerrier", , "stephane@illinois.edu", c("ctb", "cph")),
+    person("Stephane", "Guerrier", , "stephane@illinois.edu", c("ctb", "cph")),
     person("Roberto", "Molinari", , "roberto.molinari@unige.ch", c("ctb", "cph")),
     person("Wenchao", "Yang", , "wyang40@illinois.edu", c("ctb", "cph"))
     )

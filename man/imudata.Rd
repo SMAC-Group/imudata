@@ -16,7 +16,7 @@ Package: \tab gmwmdata\cr
 Type: \tab Package\cr
 Version: \tab 0.1.1\cr
 Date: \tab 2015-10-14\cr
-License: \tab Q + file LICENSE\cr
+License: \tab Q Public License\cr
 }
 }
 \examples{
