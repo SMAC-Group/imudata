@@ -1,12 +1,22 @@
-Package: gmwmdata
+Package: imudata
 Type: Package
-Title: GMWM Data Package
-Version: 0.1
-Date: 2015-09-1
-Author: James Balamuta, Stephane Guerrier, Roberto Molinari, Wenchao Yang
-Maintainer: Stephane Guerrier <stephane@illinois.edu>
-Description: This package is meant to serve as a data specific example package that can be used with the GMWM package to model latent processes within a time series.
-Depends: R (>= 2.10)
+Version: 0.1.1
+Date: 2015-10-14
+Title: IMU Data Package for the GMWM Methods Package in R
+Description: This package is meant to serve as a data collection for IMU data.
+    The data found here can be used within the GMWM methods R package to
+    model the latent processes within a time series.
+Authors@R: c(
+    person("James", "Balamuta", , "james.balamuta@gmail.com", c("aut", "cre", "cph")),
+    person("Stéphane", "Guerrier", , "stephane@illinois.edu", c("ctb", "cph")),
+    person("Roberto", "Molinari", , "roberto.molinari@unige.ch", c("ctb", "cph")),
+    person("Wenchao", "Yang", , "wyang40@illinois.edu", c("ctb", "cph"))
+    )
+URL: https://github.com/SMAC-Group/imudata
+BugReports: https://github.com/SMAC-Group/imudata/issues
+Depends:
+    R (>= 3.2)
+Suggests:
+    GMWM
+LazyData: yes
 License: file LICENSE
-License_restricts_use: yes
-LazyData: TRUE
