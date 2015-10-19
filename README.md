@@ -4,11 +4,11 @@ This repository holds the GMWM IMU R data package. The data within this package 
 The datasets available within the package are:
 
 * `imu6` - A MEMS IMU dataset with 6 columns, Axis: X,Y,Z - Type: Gyroscope & Accelerametor, from a stationary sensor
-* `cont.imu` - A MEMS IMU dataset with 1 column, Axis: X - Type:Gyroscrope, from a stationary sensor with some contaimination (e.g. outliers)
+* `cont.imu1` - A MEMS IMU dataset with 1 column, Axis: X - Type:Gyroscrope, from a stationary sensor with some contaimination (e.g. outliers)
 
 Both are idea candidates for use with `auto.imu()`, `gmwm.imu()`, `wvar.imu()`, and `imu()`.
 
-The `cont.imu` data is ideal for use with the robust methods that are implemented within the package. 
+The `cont.imu1` data is ideal for use with the robust methods that are implemented within the package. 
 
 # Install Instructions (All platforms)
 To install the `imudata` package, we have devised a different deliver mechanism than is used to install the `gmwm` R package containing the methods. The different delivery mechanism was required due to the large size (25mb + and gaining!) of the data  associated within this package violating policy setforth by [CRAN](https://cran.r-project.org/web/packages/policies.html). Please note that installing the `imudata` package with this delivery mechanism as safe as the install process associated with the `gmwm` R package via CRAN. (Some would argue it is more secure...)
