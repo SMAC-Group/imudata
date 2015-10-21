@@ -17,6 +17,6 @@ BugReports: https://github.com/SMAC-Group/imudata/issues
 Depends:
     R (>= 3.2)
 Suggests:
-    GMWM
+    gmwm
 LazyData: yes
 License: file LICENSE
