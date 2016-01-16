@@ -8,18 +8,18 @@
 #' \tabular{ll}{
 #' Package: \tab gmwmdata\cr
 #' Type: \tab Package\cr
-#' Version: \tab 0.1.1\cr
-#' Date: \tab 2015-10-14\cr
+#' Version: \tab 1.0.0\cr
+#' Date: \tab 2016-01-16\cr
 #' License: \tab Q Public License\cr
 #' }
 #'
 #' @author
-#' James Balamuta \email{james.balamuta@@gmail.com},
+#' James Balamuta \email{balamut2@@illinois.edu},
 #' Stephane Guerrier \email{stephane@@illinois.edu},
 #' Roberto Molinari \email{roberto.molinari@@unige.ch},
 #' Wenchao Yang \email{wyang40@@illinois.edu}
 #'
-#' James Balamuta \email{james.balamuta@@gmail.com}
+#' James Balamuta \email{balamut2@@illinois.edu}
 #' @docType package
 #' @name imudata
 #' @exportPattern ^[[:alpha:]]+

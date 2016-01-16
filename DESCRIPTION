@@ -1,7 +1,7 @@
 Package: imudata
 Type: Package
-Version: 0.1.1
-Date: 2015-10-14
+Version: 1.0.0
+Date: 2016-01-16
 Title: IMU Data Package for the GMWM Methods Package in R
 Description: This package is meant to serve as a data collection for IMU data.
     The data found here can be used within the GMWM methods R package to
@@ -20,3 +20,4 @@ Suggests:
     gmwm
 LazyData: yes
 License: file LICENSE
+RoxygenNote: 5.0.1
