@@ -1,7 +1,7 @@
 #' @title IMU Data from a XSens MTi-G sensor
 #' @description This data set contains gyroscope and accelerometer data from a XSens MTi-G sensor.
 #' @format A \code{matrix} with 873,684 observations and 6 columns. The columns are defined as follows:
-#' \itemize{
+#' \describe{
 #'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
 #'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
 #'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
