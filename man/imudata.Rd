@@ -14,8 +14,8 @@ latent processes within a time series.
 \tabular{ll}{
 Package: \tab gmwmdata\cr
 Type: \tab Package\cr
-Version: \tab 1.0.0\cr
-Date: \tab 2016-01-16\cr
+Version: \tab 2.0.0\cr
+Date: \tab 2016-02-05\cr
 License: \tab Q Public License\cr
 }
 }
@@ -29,5 +29,8 @@ Roberto Molinari \email{roberto.molinari@unige.ch},
 Wenchao Yang \email{wyang40@illinois.edu}
 
 James Balamuta \email{balamut2@illinois.edu}
+}
+\seealso{
+\code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, and \code{\link[imudata]{navchip}}
 }
 

@@ -8,8 +8,8 @@
 #' \tabular{ll}{
 #' Package: \tab gmwmdata\cr
 #' Type: \tab Package\cr
-#' Version: \tab 1.0.0\cr
-#' Date: \tab 2016-01-16\cr
+#' Version: \tab 2.0.0\cr
+#' Date: \tab 2016-02-05\cr
 #' License: \tab Q Public License\cr
 #' }
 #'
@@ -23,6 +23,7 @@
 #' @docType package
 #' @name imudata
 #' @exportPattern ^[[:alpha:]]+
+#' @seealso \code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, and \code{\link[imudata]{navchip}}
 #' @examples
 #' # Please see the datasets
 NULL
