@@ -8,9 +8,9 @@
 #' \tabular{ll}{
 #' Package: \tab gmwmdata\cr
 #' Type: \tab Package\cr
-#' Version: \tab 2.0.0\cr
-#' Date: \tab 2016-02-05\cr
-#' License: \tab Q Public License\cr
+#' Version: \tab 3.0.0\cr
+#' Date: \tab 2016-03-05\cr
+#' License: \tab CC BY-NC-SA 4.0\cr
 #' }
 #'
 #' @author
