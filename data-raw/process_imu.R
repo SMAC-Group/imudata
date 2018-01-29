@@ -39,3 +39,8 @@ save(mtig, file="data/mtig.rda", compress="xz")
 data(cont.imu1)
 cont.imu1 = imu(cont.imu1, gyros = 1)
 save(cont.imu1, file="data/cont.imu1.rda", compress="xz")
+
+# Convert KVH
+data(kvh)
+kvh = KVH1750imuAcc
+save(kvh, file="data/kvh.rda", compress="xz")

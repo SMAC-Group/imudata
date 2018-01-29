@@ -8,8 +8,9 @@ Description: This package is meant to serve as a data collection for IMU data.
     model the latent processes within a time series.
 Authors@R: c(
     person("James", "Balamuta", , "james.balamuta@gmail.com", c("aut", "cre", "cph")),
-    person("Stephane", "Guerrier", , "stephane@illinois.edu", c("ctb", "cph")),
-    person("Roberto", "Molinari", , "roberto.molinari@unige.ch", c("ctb", "cph")),
+    person("Stephane", "Guerrier", , "stephane@psu.edu", c("aut", "cph")),
+    person("Roberto", "Molinari", , "roberto.molinari@unige.ch", c("ctb")),
+    person("Gaetan", "Bakalli", , "gaetan.bakalli@unige.ch", c("ctb")),
     person("Wenchao", "Yang", , "wyang40@illinois.edu", c("ctb"))
     )
 URL: https://github.com/SMAC-Group/imudata
@@ -20,4 +21,4 @@ Suggests:
     gmwm (>= 3.0.0)
 LazyData: yes
 License: file LICENSE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1

@@ -22,6 +22,9 @@ License: \tab CC BY-NC-SA 4.0\cr
 \examples{
 # Please see the datasets
 }
+\seealso{
+\code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, \code{\link[imudata]{navchip}} and \code{\link[imudata]{kvh}}
+}
 \author{
 James Balamuta \email{balamut2@illinois.edu},
 Stephane Guerrier \email{stephane@illinois.edu},
@@ -30,7 +33,3 @@ Wenchao Yang \email{wyang40@illinois.edu}
 
 James Balamuta \email{balamut2@illinois.edu}
 }
-\seealso{
-\code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, and \code{\link[imudata]{navchip}}
-}
-

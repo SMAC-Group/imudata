@@ -33,11 +33,10 @@ data(mtig)
 mtig
 }
 }
-\author{
-JJB
-}
 \seealso{
 \code{\link[imudata]{mtig}}
 }
+\author{
+JJB
+}
 \keyword{datasets}
-

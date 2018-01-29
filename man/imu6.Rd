@@ -33,11 +33,10 @@ data(imu6)
 summary(imu6)
 }
 }
-\author{
-JJB
-}
 \seealso{
 \code{\link[imudata]{mtig}}
 }
+\author{
+JJB
+}
 \keyword{datasets}
-

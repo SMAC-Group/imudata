@@ -135,3 +135,16 @@
 #' cont.imu1
 #' }
 "cont.imu1"
+
+
+#' @title Six samples collected from KVH1750 IMU (only accelerometers) over periods of about 3 hours
+#' @description This data set contains six samples collected from KVH1750 IMU. 
+#' @format An \code{mimu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(kvh)
+#' kvh
+#' }
+"kvh"

@@ -23,7 +23,7 @@
 #' @docType package
 #' @name imudata
 #' @exportPattern ^[[:alpha:]]+
-#' @seealso \code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, and \code{\link[imudata]{navchip}}
+#' @seealso \code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, \code{\link[imudata]{navchip}} and \code{\link[imudata]{kvh}}
 #' @examples
 #' # Please see the datasets
 NULL
