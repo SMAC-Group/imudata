@@ -147,19 +147,20 @@
 #' data(KVH1750imu100HzAcc)
 #' KVH1750imu100HzAcc
 #' }
-"KVH1750imu100HzAcc"
+"KVH1750imuAcc"
 
-#' @title Six samples collected from KVH1750 IMU at 100 Hz (only gyroscopes) over periods of about 3 hours
-#' @description This data set contains six samples collected from KVH1750 IMU at 100 Hz. 
+#' @title Six samples collected from KVH1750 IMU (only accelerometers) over periods of about 3 hours
+#' @description This data set contains six samples collected from KVH1750 IMU. 
 #' @format An \code{mimu} from object
 #' @source Department of Geomatics Engineering, University of Calgary
 #' @author Stéphane Guerrier, Gaetan Bakalli
 #' @examples
 #' \dontrun{
-#' data(KVH1750imu1kHzGyro)
-#' KVH1750imu1kHzGyro
+#' data(KVH1750imu100HzGyro)
+#' KVH1750imu100HzGyro
 #' }
-"KVH1750imu100HzGyro"
+"KVH1750imuGyro"
+
 
 #' @title Six samples collected from KVH1750 IMU at 1000 Hz (only accelerometers) over periods of about 10 minutes
 #' @description This data set contains six samples collected from KVH1750 IMU at 1000 Hz. 
@@ -185,6 +186,32 @@
 #' KVH1750imu1kHzGyro
 #' }
 "KVH1750imu1kHzGyro"
+
+
+#' @title Six samples collected from MTI-G-710 IMU at 1000 Hz (only accelerometers) over periods of about 10 minutes
+#' @description This data set contains six samples collected from MTI-G-710 IMU at 1000 Hz. 
+#' @format An \code{mimu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(MTIG710imu1kHzAcc)
+#' MTIG710imu1kHzAcc
+#' }
+"MTIG710imu1kHzAcc"
+
+
+#' @title Six samples collected from MTI-G-710 IMU at 1000 Hz (only gyroscopes) over periods of about 10 minutes
+#' @description This data set contains six samples collected from MTI-G-710 IMU at 1000 Hz. 
+#' @format An \code{mimu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(MTIG710imu1kHzGyro)
+#' MTIG710imu1kHzGyro
+#' }
+"MTIG710imu1kHzGyro"
 
 
 
