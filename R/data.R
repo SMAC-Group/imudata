@@ -162,7 +162,7 @@
 "KVH1750imuGyro"
 
 
-#' @title Six samples collected from KVH1750 IMU at 1000 Hz (only accelerometers) over periods of about 10 minutes
+#' @title Six samples collected from KVH1750 IMU at 1000 Hz over periods of about 10 minutes
 #' @description This data set contains six samples collected from KVH1750 IMU at 1000 Hz. 
 #' @format An \code{mimu} from object
 #' @source Department of Geomatics Engineering, University of Calgary
@@ -195,23 +195,23 @@
 #' @author Stéphane Guerrier, Gaetan Bakalli
 #' @examples
 #' \dontrun{
-#' data(MTIG710imu1kHzAcc)
-#' MTIG710imu1kHzAcc
+#' data(MTIG710imu1kHz)
+#' MTIG710imu1kHz
 #' }
-"MTIG710imu1kHzAcc"
+"MTIG710imu1kHz"
 
 
-#' @title Six samples collected from MTI-G-710 IMU at 1000 Hz (only gyroscopes) over periods of about 10 minutes
-#' @description This data set contains six samples collected from MTI-G-710 IMU at 1000 Hz. 
+#' @title Six samples collected from MTI-G-710 IMU at 50 Hz  over periods of about 6 hours
+#' @description This data set contains five samples collected from MTI-G-710 IMU at 50 Hz. 
 #' @format An \code{mimu} from object
 #' @source Department of Geomatics Engineering, University of Calgary
 #' @author Stéphane Guerrier, Gaetan Bakalli
 #' @examples
 #' \dontrun{
-#' data(MTIG710imu1kHzGyro)
-#' MTIG710imu1kHzGyro
+#' data(MTIG710imu50Hz)
+#' MTIG710imu50Hz
 #' }
-"MTIG710imu1kHzGyro"
+"MTIG710imu50Hz"
 
 
 
