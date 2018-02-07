@@ -214,4 +214,19 @@
 "MTIG710imu50Hz"
 
 
+#' @title Six samples collected from ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains six samples collected from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{mimu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(MTIG710imu50Hz)
+#' MTIG710imu50Hz
+#' }
+"ADIS16405imu100Hz"
+
+
+
+
 
