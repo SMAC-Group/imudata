@@ -221,8 +221,8 @@
 #' @author Stéphane Guerrier, Gaetan Bakalli
 #' @examples
 #' \dontrun{
-#' data(MTIG710imu50Hz)
-#' MTIG710imu50Hz
+#' data(ADIS16405imu100Hz)
+#' ADIS16405imu100Hz
 #' }
 "ADIS16405imu100Hz"
 
