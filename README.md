@@ -20,8 +20,9 @@ The datasets available within the package are:
 
 The first 6 datasets can be used as examples for the functions `auto.imu()`, `gmwm.imu()`, `wvar.imu()`, and `imu()` of the `gmwm` R package. Note that the `cont.imu1` data can be used as an illustration of the robustness properties of the robust version the Generalized Method of Wavelet Moments (GMWM). Here is a simple example:
 
-![](https://media.giphy.com/media/3o6nUT0fFdzl49Gk0M/giphy.gif)
-
+<center>
+![](https://raw.githubusercontent.com/smac-group/imudata/master/img/demo.gif)
+</center>
 Install Instructions
 ====================
 
@@ -38,4 +39,4 @@ devtools::install_github("SMAC-Group/imudata")
 Licensing
 =========
 
-The license this source code is released under is the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA). In some cases, the GPL license does apply. However, in the majority of the cases, the license in effect is the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) as the computational code is heavily dependent on armadilllo, which has an MIT license that enables us to recast our code to the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA). See the LICENSE file for full text. Otherwise, please consult [TLDR Legal](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa)) or [CC](https://creativecommons.org/licenses/by-nc-sa/4.0/#) which will provide a synopsis of the restrictions placed upon the data and code. Please note, this does NOT excuse you from talking about licensing with a lawyer!
+The license this source code is released under is the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA). In some cases, the GPL license does apply. However, in the majority of the cases, the license in effect is the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) as the computational code is heavily dependent on armadilllo, which has an MIT license that enables us to recast our code to the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA). See the LICENSE file for full text. Otherwise, please consult [TLDR Legal](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa)) or [CC](https://creativecommons.org/licenses/by-nc-sa/4.0/#) which will provide a synopsis of the restrictions placed upon the data and code.
