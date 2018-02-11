@@ -23,7 +23,6 @@ The first 6 datasets can be used as examples for the functions `auto.imu()`, `gm
 <center>
 ![](https://raw.githubusercontent.com/smac-group/imudata/master/img/demo.gif)
 </center>
-
 Install Instructions
 ====================
 

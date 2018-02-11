@@ -43,6 +43,11 @@ The first 6 datasets can be used as examples for the functions `auto.imu()`, `gm
 
 
 
+
+
+
+
+
 # Install Instructions
 
 To install the package you can use:
