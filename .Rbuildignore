@@ -7,3 +7,5 @@ NEWS\.md
 CONTRIBUTING\.md
 README\.md
 ^data-raw$
+^docs$
+^_pkgdown\.yml$
