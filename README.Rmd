@@ -36,9 +36,11 @@ The datasets available within the package are:
 
 The first 6 datasets can be used as examples for the functions `auto.imu()`, `gmwm.imu()`, `wvar.imu()`, and `imu()` of the `gmwm` R package. Note that the `cont.imu1` data can be used as an illustration of the robustness properties of the robust version the Generalized Method of Wavelet Moments (GMWM). Here is a simple example:
 
+
 <center>
 ![](https://raw.githubusercontent.com/smac-group/imudata/master/img/demo.gif)
 </center>
+
 
 # Install Instructions
 
