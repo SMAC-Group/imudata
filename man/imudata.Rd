@@ -25,7 +25,7 @@ License: \tab CC BY-NC-SA 4.0\cr
 # Please see the datasets
 }
 \seealso{
-\code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig}}, \code{\link[imudata]{navchip}} and \code{\link[imudata]{kvh}}
+\code{\link[imudata]{cont.imu1}}, \code{\link[imudata]{imu6}}, \code{\link[imudata]{imar.gyro}}, \code{\link[imudata]{ln200.accel}}, \code{\link[imudata]{ln200.gyro}}, \code{\link[imudata]{mtig1khrz}}, \code{\link[imudata]{navchip}}, \code{\link[imudata]{adis16405}},  \code{\link[imudata]{kvh1750.gyro}} and \code{\link[imudata]{kvh1750.accel}}
 }
 \author{
 Stephane Guerrier \email{stephane@psu.edu},
