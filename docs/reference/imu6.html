@@ -18,13 +18,21 @@
 <!-- Font Awesome icons -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
+<!-- clipboard.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script>
 
 <!-- pkgdown -->
 <link href="../pkgdown.css" rel="stylesheet">
 <script src="../jquery.sticky-kit.min.js"></script>
 <script src="../pkgdown.js"></script>
-  
-  
+<meta property="og:title" content="IMU Data from a XSens MTi-G sensor — imu6" />
+
+<meta property="og:description" content="This data set contains gyroscope and accelerometer data from a XSens MTi-G sensor." />
+
+<meta property="og:image" content="/logo.png" />
+<meta name="twitter:card" content="summary" />
+
+
 <!-- mathjax -->
 <script src='https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 
@@ -32,6 +40,8 @@
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
+
+
 
 
   </head>
@@ -47,13 +57,23 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="../index.html">imudata</a>
+      <span class="navbar-brand">
+        <a class="navbar-link" href="../index.html">imudata</a>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.1.9</span>
+      </span>
     </div>
+
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="../reference/index.html">Reference</a>
 </li>
+<<<<<<< HEAD
+=======
+<li>
+  <a href="../news/index.html">Changelog</a>
+</li>
+>>>>>>> origin/master
       </ul>
       
       <ul class="nav navbar-nav navbar-right">
@@ -64,6 +84,7 @@
   </a>
 </li>
       </ul>
+      
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -71,10 +92,12 @@
       
       </header>
 
-      <div class="row">
+<div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
     <h1>IMU Data from a XSens MTi-G sensor</h1>
+    <small>Source: <a href='https://github.com/SMAC-Group/imudata/blob/master/R/data.R'><code>R/data.R</code></a></small>
+    <p class="hidden name"><code>imu6.Rd</code></p>
     </div>
 
     
@@ -100,13 +123,13 @@
     
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
-    <p>This data set is equivalent to the <code><a href='mtig.html'>mtig</a></code> data set. The only difference
+    <p>This data set is equivalent to the <code>mtig</code> data set. The only difference
 is that this data set acts as a way to showcase the <code><a href='http://www.rdocumentation.org/packages/gmwm/topics/imu'>imu</a></code> cast function whereas 
-<code><a href='mtig.html'>mtig</a></code> has already been cast using <code><a href='http://www.rdocumentation.org/packages/gmwm/topics/imu'>imu</a></code>.</p>
+<code>mtig</code> has already been cast using <code><a href='http://www.rdocumentation.org/packages/gmwm/topics/imu'>imu</a></code>.</p>
     
     <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
 
-    <p><code><a href='mtig.html'>mtig</a></code></p>
+    <div class='dont-index'><p><code>mtig</code></p></div>
     
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
@@ -143,11 +166,14 @@ JJB
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="http://hadley.github.io/pkgdown/">pkgdown</a>.</p>
+  <p>Site built with <a href="http://pkgdown.r-lib.org/">pkgdown</a>.</p>
 </div>
 
       </footer>
    </div>
 
+  
+
   </body>
 </html>
+
