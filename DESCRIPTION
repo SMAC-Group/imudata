@@ -9,12 +9,13 @@ Description: This package is meant to serve as a data collection tool for IMU da
  used for this kind of data is implemented in the GMWM R package which can also model 
  the latent models that often characterize this data.
 Authors@R: c(
-    person("Stephane", "Guerrier", , "stephane@psu.edu", c("aut", "cph", "cre")),
-    person("Gaetan", "Bakalli", , "gaetan.bakalli@unige.ch", c("aut")),
-    person("Roberto", "Molinari", , "roberto.molinari@hotmail.it", c("aut", "cph")),
-    person("James", "Balamuta", , "james.balamuta@gmail.com", c("aut")),
-    person("Ahmed", "Radi", , "ahmed.elboraee@ucalgary.ca", c("ctb")),
-    person("Wenchao", "Yang", , "wyang40@illinois.edu", c("ctb"))
+    person("Stephane", "Guerrier", email = "stef.guerrier@gmail.com", role = c("aut","cre","cph")),
+    person("James", "Balamuta", role = "aut"),
+    person("Gaetan", "Bakalli", role = "aut"),
+    person("Roberto", "Molinari", role = c("aut","cph")),
+    person("Ahmed", "Radi", role = "ctb"),
+    person("Wenchao", "Yang", role = "ctb"),
+    person("Yuming", "Zhang", role = "ctb")
     )
 Maintainer: Stephane Guerrier <stephane@psu.edu>
 URL: https://github.com/SMAC-Group/imudata
