@@ -3,6 +3,9 @@ imar.gyro
 imu6
 ln200.accel
 ln200.gyro
-mtig
+mtig1khrz
 navchip
+kvh1750.gyro
+kvh1750.acc
+adis16405
 
