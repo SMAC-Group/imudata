@@ -165,6 +165,116 @@
 "adis16405"
 
 
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu1)
+#' kvh_100hz_imu1
+#' }
+"kvh_100hz_imu1"
 
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu2)
+#' kvh_100hz_imu2
+#' }
+"kvh_100hz_imu2"
 
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu3)
+#' kvh_100hz_imu3
+#' }
+"kvh_100hz_imu3"
 
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu4)
+#' kvh_100hz_imu4
+#' }
+"kvh_100hz_imu4"
+
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu5)
+#' kvh_100hz_imu5
+#' }
+"kvh_100hz_imu5"
+
+#' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
+#' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
+#' @format An \code{imu} with over 1,000,000 observations and 6 sensors. The sensors are defined as follows:
+#' \describe{
+#'  \item{\code{Gyro. X}}{Gyroscope X-Axis}
+#'  \item{\code{Gyro. Y}}{Gyroscope Y-Axis}
+#'  \item{\code{Gyro. Z}}{Gyroscope Z-Axis}
+#'  \item{\code{Accel. X}}{Accelerometer X-Axis}
+#'  \item{\code{Accel. Y}}{Accelerometer Y-Axis}
+#'  \item{\code{Accel. Z}}{Accelerometer Z-Axis}
+#' }
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @examples
+#' \dontrun{
+#' data(kvh_100hz_imu6)
+#' kvh_100hz_imu6
+#' }
+"kvh_100hz_imu6"
