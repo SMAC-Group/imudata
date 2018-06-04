@@ -164,6 +164,78 @@
 #' }
 "adis16405"
 
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu1)
+#' adis_16405_imu1
+#' }
+"adis_16405_imu1"
+
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu2)
+#' adis_16405_imu2
+#' }
+"adis_16405_imu2"
+
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu3)
+#' adis_16405_imu3
+#' }
+"adis_16405_imu3"
+
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu4)
+#' adis_16405_imu4
+#' }
+"adis_16405_imu4"
+
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu5)
+#' adis_16405_imu5
+#' }
+"adis_16405_imu5"
+
+#' @title IMU Data from an ADIS 16405 IMU at 100 Hz  over periods of about 3 hours
+#' @description This data set contains gyroscope and accelerometer data from ADIS 16405 IMU at 100 Hz. 
+#' @format An \code{imu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(adis_16405_imu6)
+#' adis_16405_imu6
+#' }
+"adis_16405_imu6"
+
 
 #' @title IMU Data from a KVH1750 IMU at 100hrz over periods of about 3 hours.
 #' @description This data set contains gyroscope and accelerometer data from KVH1750 IMU.
