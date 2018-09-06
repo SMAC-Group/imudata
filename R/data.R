@@ -350,3 +350,15 @@
 #' kvh_100hz_imu6
 #' }
 "kvh_100hz_imu6"
+
+#' @title Six samples collected from MTI-G-710 IMU at 100 Hz over periods of about 3 hours
+#' @description This data set contains six samples collected from MTI-G-710 IMU at 100 Hz. 
+#' @format An \code{mimu} from object
+#' @source Department of Geomatics Engineering, University of Calgary
+#' @author Stéphane Guerrier, Gaetan Bakalli
+#' @examples
+#' \dontrun{
+#' data(mtig100hrz)
+#' mtig100hrz
+#' }
+"mtig100hrz"
